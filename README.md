@@ -13,24 +13,21 @@
 
 ## 🚀 About Me
 
-🎓 **Software Engineering Graduate from NUST**  
-💼 **WordPress Developer at Common Criteria Pakistan**  
-🧠 **Freelancer in AI, Machine Learning & Neural Networks**  
+With a **Software Engineering degree from NUST**, I specialize in **WordPress development, React.js, and Python**, while actively working on **AI & Neural Networks** projects as a **freelancer**.  
 
-I specialize in **WordPress development, React.js, and Python**, while actively working on **AI & Neural Networks** projects.  
+Currently, as a **WordPress Developer at Common Criteria Pakistan**, I focus on **building secure, scalable, and user-friendly web applications**. My expertise extends beyond WordPress, integrating **React.js for dynamic interfaces** and **RESTful API connections** to streamline **frontend-backend interactions**, including **C++ integrations**.  
 
-🔹 **Professional Experience:**  
-- **WordPress Developer @ Common Criteria Pakistan** – Focused on **secure, scalable, and user-friendly web applications**.  
-- **Frontend Developer @ Government of Pakistan** – Developed **high-performance, responsive, and accessible web applications**.  
-- **Freelance AI & ML Developer** – Working on **AI-driven solutions, machine learning models, and neural networks for automation & data intelligence**.  
+Previously, as a **Frontend Developer at the Government of Pakistan**, I contributed to designing **responsive, accessible, and high-performance** web applications.  
 
-🔹 **Technical Expertise:**  
+In my **freelance work**, I focus on **AI-driven solutions, Python-based machine learning models, and neural network implementations**, helping businesses **leverage automation and data intelligence**.  
+
+🔹 **Key Skills:**  
 ✔ **WordPress Development & Customization**  
 ✔ **React.js & Frontend Development**  
 ✔ **RESTful API & Backend Integration**  
 ✔ **Python, AI, Machine Learning & Neural Networks**  
 
-🚀 Passionate about **technology, security, and AI-driven solutions**, I thrive in **collaborative and innovative environments**. Let’s connect and explore **new possibilities**!  
+Passionate about **building secure, high-performing applications**, I thrive in **collaborative, innovative environments** and constantly seek opportunities to **enhance AI-driven digital solutions**.  
 
 ---
 
