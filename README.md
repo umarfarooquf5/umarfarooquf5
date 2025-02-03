@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umar Farooq</h1>
 <h3 align="center">Software Engineer | WordPress & React.js Developer | AI & Neural Networks Enthusiast | Freelancer 🔹</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=umarfarooquf5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-
 
 ## 🚀 About Me
 
