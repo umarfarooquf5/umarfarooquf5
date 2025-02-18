@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umar Farooq</h1>
-<h3 align="center">Software Engineer | WordPress & React.js Developer | AI & Neural Networks Enthusiast | Freelancer 🔹</h3>
+<h3 align="center">Software Engineer | MERN Stack | REST API | WordPress Development | C++ & Python | Freelancer 🔹</h3>
 
 
 ## 🚀 About Me
