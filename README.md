@@ -4,29 +4,35 @@
 
 ## 🚀 About Me
 
-With a **Software Engineering degree from NUST**, I specialize in **WordPress development, React.js, and Python**, while actively working on **AI & Neural Networks** projects as a **freelancer**.  
+As a results-driven Software Developer, I have extensive experience in full-stack development, with expertise in MERN Stack (MongoDB, Express.js, React.js, Node.js), REST APIs, WordPress Development, C++, and Python. My journey has been driven by a passion for delivering secure, scalable, and efficient solutions for clients across government, private sector, and freelance projects.
 
-Currently, as a **WordPress Developer at Common Criteria Pakistan**, I focus on **building secure, scalable, and user-friendly web applications**. My expertise extends beyond WordPress, integrating **React.js for dynamic interfaces** and **RESTful API connections** to streamline **frontend-backend interactions**, including **C++ integrations**.  
+🎓 Education:
 
-Previously, as a **Frontend Developer at the Government of Pakistan**, I contributed to designing **responsive, accessible, and high-performance** web applications.  
+Software Engineering — National University of Sciences and Technology (NUST)
 
-In my **freelance work**, I focus on **AI-driven solutions, Python-based machine learning models, and neural network implementations**, helping businesses **leverage automation and data intelligence**.  
+💡 Key Expertise:
 
-🔹 **Key Skills:**  
-✔ **WordPress Development & Customization**  
-✔ **React.js & Frontend Development**  
-✔ **RESTful API & Backend Integration**  
-✔ **Python, AI, Machine Learning & Neural Networks**  
+MERN Stack Development: Built responsive web applications using React.js, Node.js, Express.js, and MongoDB. Developed reusable components, implemented efficient state management with Redux, and ensured client-side security through input validation and XSS protection.
 
-Passionate about **building secure, high-performing applications**, I thrive in **collaborative, innovative environments** and constantly seek opportunities to **enhance AI-driven digital solutions**.  
+REST API Development: Designed secure REST APIs to integrate React.js with C++ applications for real-time, high-performance data exchange. Applied best practices like JWT, OAuth2, and input sanitization.
 
----
+WordPress Development: Built custom themes and plugins for WordPress, including the official Quantum Communications website https://quantum.org.pk/. Enhanced performance with caching and CDN integration.
 
-## 🔭 Current Projects  
-- **AI-Powered Social Media Arabic Trend Detection & Content Generation for Marketing**  
+C++ Development (NIST Test Suite): Developed a high-performance C++ backend with a React.js frontend using REST APIs, optimizing real-time statistical analysis.
 
-## 🌱 Currently Learning  
-- **AI & Neural Networks**  
+Python Development (AI Trend Detection): Created an AI-powered Arabic social media trend detection and content generation system using Python and AraGPT2, integrated with Apache Spark Streaming for real-time insights.
+
+🔍 Tools & Technologies:
+
+React.js | Node.js | MongoDB | Redux | Flask | WordPress | C++ | Python | Docker | REST APIs
+
+🌐 Professional Impact:
+
+Built an Arabic social media platform with 30% increased engagement.
+
+Delivered optimized, SEO-friendly WordPress sites.
+
+Integrated React with C++ for real-time data exchange.  
 
 ---
 
